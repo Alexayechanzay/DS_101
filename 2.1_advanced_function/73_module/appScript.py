@@ -7,4 +7,4 @@ print(listFibo(100))
 
 del globals()["myModule"] # delete ["Module name"]
 
-# fibo(4) #KeyError
+# fibo(4) #KeyError???
