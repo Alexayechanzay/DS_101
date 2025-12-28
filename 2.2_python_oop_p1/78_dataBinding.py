@@ -8,4 +8,4 @@ class Myclass:
 
 o1 = Myclass("Apple","Orange")
 print(f"Obj dat: {o1.cat1}, {o1.cat2}")
-o1.methodInfo()
+o1.methodInfo() # calling normal method
